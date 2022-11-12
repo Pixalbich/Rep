@@ -26,3 +26,12 @@ Have a good day!
 git add .
 
 git commit -m "все синтаксисы Markdown"
+
+Подробнее тут [link text](READme.md)
+___
+___
+
+![{Хорошего дня!}](/image/smile.jpg)
+___
+___
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="Описание картинки">
