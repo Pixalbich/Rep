@@ -27,7 +27,7 @@ git add .
 
 git commit -m "все синтаксисы Markdown"
 
-Подробнее тут [link text](READme.md)
+[Подробнее тут](READme.md)
 ___
 ___
 
