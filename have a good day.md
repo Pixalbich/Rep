@@ -23,9 +23,9 @@ Have a good day!
 выделение первого уровня
 =
 
-git add .
+git add . - Добавление файла к следующему коммиту
 
-git commit -m "все синтаксисы Markdown"
+git commit -m "все синтаксисы Markdown" - создание коммита
 
 [Подробнее тут](READme.md)
 ___
